@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../apiwithcbv/.idea/apiwithcbv.iml" filepath="$PROJECT_DIR$/../../apiwithcbv/.idea/apiwithcbv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/withjson.iml" filepath="$PROJECT_DIR$/.idea/withjson.iml" />
+    </modules>
+  </component>
+</project>
